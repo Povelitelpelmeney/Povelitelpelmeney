@@ -1,5 +1,5 @@
-[![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Povelitelpelmeney&&hide=html,css&theme=buefy&show_icons=true)](https://github.com/Povelitelpelmeney)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=buefy&show_icons=true)](https://github.com/Povelitelpelmeney)
+[![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Povelitelpelmeney&&hide=html,css&theme=ambient_gradient&show_icons=true)](https://github.com/Povelitelpelmeney)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=ambient_gradient&show_icons=true)](https://github.com/Povelitelpelmeney)
 
 <!--
 **Povelitelpelmeney/Povelitelpelmeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
