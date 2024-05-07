@@ -1,4 +1,4 @@
-[![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Povelitelpelmeney&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Povelitelpelmeney)
+[![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Povelitelpelmeney&theme=algolia&show_icons=true)](https://github.com/Povelitelpelmeney)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=algolia&show_icons=true)](https://github.com/Povelitelpelmeney)
 
 <!--
