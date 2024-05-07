@@ -1,6 +1,7 @@
+<div style="display: flex; flex-direction: row;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&theme=buefy&layout=donut)
 ![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=buefy&show_icons=true)
-
+</div>
 
 <!--
 **Povelitelpelmeney/Povelitelpelmeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
