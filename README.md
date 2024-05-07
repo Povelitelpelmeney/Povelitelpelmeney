@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide_lang=html,css&theme=buefy&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut)
 ![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=buefy&show_icons=true)
 
 <!--
