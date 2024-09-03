@@ -31,14 +31,18 @@
   <br/>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-0290ff?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-033953?style=for-the-badge&logo=sqlite&logoColor=7cc1e1" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/java-f2f3f4?style=for-the-badge&logo=java&logoColor=black">
     <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Static Badge" src="https://img.shields.io/badge/gitlab-ff8f00?style=for-the-badge&logo=gitlab&logoColor=white">
     <br/>
     <b>English level: Upper-Intermediate</b>
   </div>
-</details>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut)
-![Povelitelpelmeney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Povelitelpelmeney&theme=buefy&show_icons=true) -->
+</details> 
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut""/></h1>
 
 <!--
 **Povelitelpelmeney/Povelitelpelmeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
