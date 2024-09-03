@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Static Badge" src="https://img.shields.io/badge/gitlab-ff8f00?style=for-the-badge&logo=gitlab&logoColor=white">
     <br/>
+    <br/>
     <b>English level: Upper-Intermediate</b>
   </div>
 </details> 
