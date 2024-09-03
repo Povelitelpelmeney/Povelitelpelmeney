@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align = "center"> Overview
 <h3 align="center"> Frontend Developer, currently studying computer science, UrFU <br/>
+  <br/>
+  <br/>
 <details>
   <summary>
       My hard skills:
