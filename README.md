@@ -1,19 +1,40 @@
 <h1 align="center"> Hi there, I'm Lev
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align = "center"> Overview
-<h3 align="center"> Frontend Developer, currently studying computer science, UrFU
+<h3 align="center"> Frontend Developer, currently studying computer science, UrFU <br/>
 <details>
   <summary>
-      My frontend skills:
+      My hard skills:
   </summary>
   <br/>
   <div>
-    <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-c06191?style=for-the-badge&logo=sass&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=7248b5" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
+    <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
+    <br/>
+    <br/>
+    <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
+  </div>
+</details>
+<details>
+ <summary>
+      Other skills:
+  </summary>
+  <br/>
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-0290ff?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/gitlab-ff8f00?style=for-the-badge&logo=gitlab&logoColor=white">
+    <br/>
+    <b>English level: Upper-Intermediate</b>
   </div>
 </details>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut)
