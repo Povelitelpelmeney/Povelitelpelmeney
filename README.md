@@ -42,12 +42,10 @@
     <b>English level: Upper-Intermediate</b>
   </div>
 </details> 
-<details> 
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut""/></h1>
-  <br/>
-</details> 
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut""/></h1>
+
 My contacts:
  - Telegram `https://t.me/Levp00pkin`
  - Email `levsemenenko@mail.ru`
