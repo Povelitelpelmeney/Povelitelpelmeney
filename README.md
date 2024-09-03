@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Lev
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align = "center"> Overview
-<h3 align="Frontend Developer, currently studying computer science, UrFU </h3>
+<h3 align="center"> Frontend Developer, currently studying computer science, UrFU
 <details>
   <summary>
       My frontend skills:
