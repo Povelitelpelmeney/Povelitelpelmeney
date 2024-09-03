@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
-    <img src ="https://img.shields.io/badge/React-%2300C1FF?style=for-the-badge&logo=react-router&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/React%20Router-%2300C1FF?style=for-the-badge&logo=react-router&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwind-00c3ff?style=for-the-badge&logoColor=white" />
