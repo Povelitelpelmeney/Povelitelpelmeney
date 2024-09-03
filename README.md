@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img = src="https://img.shields.io/badge/tailwind-00c3ff?style=for-the-badge&logoColor=white" />
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -33,7 +34,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-0290ff?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-033953?style=for-the-badge&logo=sqlite&logoColor=7cc1e1" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/java-f2f3f4?style=for-the-badge&logo=java&logoColor=black">
     <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Static Badge" src="https://img.shields.io/badge/gitlab-ff8f00?style=for-the-badge&logo=gitlab&logoColor=white">
     <br/>
