@@ -49,5 +49,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut""/></h1>
 
 My contacts:
- - Telegram `https://t.me/Levp00pkin`
+ - Telegram `https://t.me/Super_bionicle`
  - Email `levsemenenko@mail.ru`
