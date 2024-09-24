@@ -25,6 +25,7 @@
     <br/>
     <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
+    <img src ="https://img.shields.io/badge/Prettier-%23606060?style=for-the-badge&logo=Prettier"/>
   </div>
 </details>
 <details>
