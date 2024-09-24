@@ -13,13 +13,12 @@
     <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-c06191?style=for-the-badge&logo=sass&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
     <img src ="https://img.shields.io/badge/React%20Router-%2300C1FF?style=for-the-badge&logo=react-router&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwind-00c3ff?style=for-the-badge&logoColor=white" />
     <br/>
