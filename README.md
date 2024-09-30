@@ -46,7 +46,7 @@
 </details> 
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS&theme=buefy&layout=donut""/></h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povelitelpelmeney&hide=HTML,CSS,SCSS&theme=buefy&layout=donut""/></h1>
 
 My contacts:
  - Telegram `https://t.me/Super_bionicle`
